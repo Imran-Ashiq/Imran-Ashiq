@@ -61,7 +61,7 @@ Here are some of the key projects I've been working on.
     <td width="50%" valign="top">
       <!-- ACTION: Create a high-quality GIF of DevSearch in action. -->
       <a href="https://devsearch-276231454672.europe-west1.run.app">
-        <img src="[LINK-TO-YOUR-DEVSEARCH-DEMO-GIF]" alt="Animated demo of DevSearch project"/>
+<img src="https://raw.githubusercontent.com/Imran-Ashiq/Imran-Ashiq/main/banner/Dev.gif" alt="DevSearch animated demo" width="100%">
       </a>
     </td>
   </tr>

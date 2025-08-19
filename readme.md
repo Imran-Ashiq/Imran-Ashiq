@@ -1,7 +1,7 @@
 <!-- 
 This is the new, professionally rewritten version of your README.
 It's designed to be clean, impactful, and focused on your strongest projects.
-Remember to update any remaining placeholder links.
+Remember to update any remaining placeholder links
 -->
 
 <div align="center">

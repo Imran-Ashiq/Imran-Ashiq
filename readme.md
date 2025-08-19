@@ -7,7 +7,7 @@ Remember to update any remaining placeholder links.
 <div align="center">
 
   <!-- A more professional and abstract banner. Consider creating a custom one with your name. -->
-  ![Image](https://github.com/user-attachments/assets/5e7d4ac9-4059-4149-9dc2-ab31c386bae0)
+  <img width="640" height="320" alt="Image" src="https://github.com/user-attachments/assets/0da15d3b-24fd-4352-98e4-c479acda9ebc" />
   
   <br>
 

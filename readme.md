@@ -82,7 +82,7 @@ Here are some of the key projects I've been working on.
     <td width="50%" valign="top">
        <!-- ACTION: Create a GIF showing a code snippet using the library. -->
        <a href="https://www.npmjs.com/package/js-cognition">
-        <img src="[LINK-TO-YOUR-JS-COGNITION-DEMO-GIF]" alt="Animated demo of js-cognition"/>
+            <img src="https://raw.githubusercontent.com/Imran-Ashiq/Imran-Ashiq/main/banner/jsgit.gif" alt="Animated Demo" width="100%">
       </a>
     </td>
   </tr>
@@ -101,7 +101,7 @@ Here are some of the key projects I've been working on.
     <td width="50%" valign="top">
        <!-- ACTION: Create a GIF showing the main UI of FocusFlow. -->
        <a href="https://github.com/Imran-Ashiq/FocusFlow">
-        <img src="[LINK-TO-YOUR-FOCUSFLOW-DEMO-GIF]" alt="Animated demo of FocusFlow"/>
+            <img src="https://raw.githubusercontent.com/Imran-Ashiq/Imran-Ashiq/main/banner/focusflow.gif" alt="Animated demo of focus flow" width="100%">
       </a>
     </td>
   </tr>

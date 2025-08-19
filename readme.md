@@ -7,7 +7,9 @@ Remember to update any remaining placeholder links.
 <div align="center">
 
   <!-- A more professional and abstract banner. Consider creating a custom one with your name. -->
-  <img width="1280" height="280" alt="Image" src="https://github.com/user-attachments/assets/69f7fd2a-ed4d-4582-ab49-7315f10baead" />
+![Developer Banner](https://raw.githubusercontent.com/Imran-Ashiq/my-github-assets/main/banner/_Developer%20github%20Banner.gif)
+
+
   
   <br>
 

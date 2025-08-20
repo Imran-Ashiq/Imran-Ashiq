@@ -66,7 +66,7 @@ Here are some of the key projects I've been working on.
     </td>
   </tr>
 
-<!-- Project 1: SafeStats -->
+<!-- Project 2: SafeStats -->
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://www.npmjs.com/package/safestats">SafeStats - Privacy-First Analytics</a></strong>
@@ -85,7 +85,7 @@ Here are some of the key projects I've been working on.
        <!-- ACTION: Create a GIF showing a code snippet using SafeStats. -->
        <a href="https://www.npmjs.com/package/safestats">
             <!-- Replace this with the URL to your new GIF when ready -->
-            <img src="https://raw.githubusercontent.com/Imran-Ashiq/my-github-assets/main/banner/placeholder.gif" alt="Animated Demo of SafeStats" width="100%">
+<img src="https://raw.githubusercontent.com/Imran-Ashiq/Imran-Ashiq/main/banner/safestats.gif" alt="safestats animated demo" width="100%">
       </a>
     </td>
   </tr>

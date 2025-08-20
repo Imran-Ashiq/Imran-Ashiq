@@ -66,6 +66,30 @@ Here are some of the key projects I've been working on.
     </td>
   </tr>
 
+<!-- Project 1: SafeStats -->
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://www.npmjs.com/package/safestats">SafeStats - Privacy-First Analytics</a></strong>
+      <br><br>
+      A lightweight, isomorphic, and privacy-first analytics library for JavaScript. Published to npm and available as a GitHub Action, it allows developers to gather anonymous usage and performance metrics without compromising user privacy.
+      <br><br>
+      <em>(TypeScript, Node.js, Isomorphic JS, GitHub Actions)</em>
+      <br><br>
+      <a href="https://www.npmjs.com/package/safestats"><strong>View on NPM »</strong></a>
+      &nbsp;•&nbsp;
+      <a href="https://github.com/Imran-IO/safestats"><strong>Source Code »</strong></a>
+      &nbsp;•&nbsp;
+      <a href="https://github.com/marketplace/actions/safestats-event-tracker"><strong>Use the Action »</strong></a>
+    </td>
+    <td width="50%" valign="top">
+       <!-- ACTION: Create a GIF showing a code snippet using SafeStats. -->
+       <a href="https://www.npmjs.com/package/safestats">
+            <!-- Replace this with the URL to your new GIF when ready -->
+            <img src="https://raw.githubusercontent.com/Imran-Ashiq/my-github-assets/main/banner/placeholder.gif" alt="Animated Demo of SafeStats" width="100%">
+      </a>
+    </td>
+  </tr>
+
   <!-- Project 2: js-cognition -->
   <tr>
     <td width="50%" valign="top">
